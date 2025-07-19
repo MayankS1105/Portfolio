@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="text-white min-h-screen flex flex-col lg:flex-row items-center justify-center px-4 lg:px-24 pt-24 gap-96 lg:pt-0">
       <div className="absolute md:static top-56 md:top-auto left-0 md:left-auto w-full md:w-auto flex flex-col items-center md:items-start">
         <h1 className="text-4xl lg:text-6xl font-bold mb-3 text-left">Hi, I am </h1>
-        <h1 className="text-4xl lg:text-6xl font-bold mb-4 text-left">Mayankk Sharma</h1>
+        <h1 className="text-4xl lg:text-6xl font-bold mb-4 text-left">Mayank Sharma</h1>
          <span className='text-lg md:text-2xl'>I am a </span>
         <span className="text-lg md:text-2xl text-purple-700">
           <Typewriter
