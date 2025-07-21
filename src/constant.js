@@ -43,6 +43,7 @@ import micro from './assets/company_logo/micro.png';
 // Education Section Logo's
 import poornima from './assets/education_logo/Poornima.png';
 import rbse from './assets/education_logo/rbse.jpg';
+import sanskar from './assets/education_logo/sanskar.jpg'
 
 
 // Project Section Logo's
@@ -167,7 +168,7 @@ export const SkillsInfo = [
         "React JS",
         "Bootstrap",
         "Figma",
-        "Material UI",
+        
       ],
     },
   ];
@@ -179,27 +180,27 @@ export const SkillsInfo = [
       img: poornima,
       school: "Poornima University, Jaipur, Rajasthan",
       date: "Aug 2022 - Apr 2026",
-      grade: "8.7 cgpa",
+      grade: "6.5 cgpa",
       desc: "I completed my Bachelor's degree in Computer Science (B.Tech) from Poornima University, Jaipur, Rajasthan. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at Poornima University, Jaipur, Rajasthan allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "Bachelor of Technology - B.Tech(CSE)",
     },
     {
       id: 1,
-      img: rbse,
-      school: "Apoorva Public School, Alwar, Rajasthan,",
+      img: sanskar,
+      school: "Sanskar Academy, Pachore, M.P.,",
       date: "June 2021 - May 2022",
-      grade: "87.4%",
-      desc: "I completed my class 12 education from Apoorva Public School, Alwar, Rajasthan, under the RBSE board, where I studied Physics, Chemistry, and Mathematics (PCM)",
-      degree: "RBSE(XII) - PCM ",
+      grade: "70.00%",
+      desc: "I completed my class 12 education from  Sanskar Academy, Pachore, M.P, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM)",
+      degree: "CBSE(XII) - PCM ",
     },
     {
       id: 2,
-      img: rbse,
-      school: "Shalom English Secondary School Alwar, Rajasthan ",
+      img: sanskar,
+      school: "Sanskar Academy, Pachore, M.P ",
       date: "June 2019 - May 2020",
-      grade: "86.33%",
-      desc: "I completed my class 10 education from Shalom English Secondary School Alwar, Rajasthan  under the RBSE board, where I studied all core subjects",
-      degree: "RBSE(X), all core subjects",
+      grade: "70.00%",
+      desc: "I completed my class 10 education from Sanskar Academy, Pachore, M.P  under the CBSE board, where I studied all core subjects",
+      degree: "CBSE(X), all core subjects",
     },
   ];
   

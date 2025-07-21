@@ -56,13 +56,12 @@ const Navbar = () => {
             ))}
           </div>
           <div className="flex gap-2 ml-2">
-            <a href="https://github.com/Paras-29" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/MayankS1105" target="_blank" rel="noopener noreferrer">
               <FaGithub className="text-2xl sm:text-3xl hover:text-gray-300" />
             </a>
-            <a href="http://www.linkedin.com/in/paras-gulvanshi" target="_blank" rel="noopener noreferrer" className="ml-2 sm:ml-4">
+            <a href="https://www.linkedin.com/in/mayank-sharma-731637250/" target="_blank" rel="noopener noreferrer" className="ml-2 sm:ml-4">
               <FaLinkedin className="text-2xl sm:text-3xl hover:text-gray-300" />
             </a>
-          </div>
 
           <button className="md:hidden text-3xl ml-2" onClick={toggleMenu}>
             {isMenuOpen ? <FiX /> : <FiMenu />}
@@ -90,7 +89,7 @@ const Navbar = () => {
           )}
           
         </div>
-      </nav>
+      </div></nav>
     </>
   )
 }
