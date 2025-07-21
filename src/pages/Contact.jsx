@@ -34,14 +34,14 @@ const Contact = () => {
         <form ref={form} onSubmit={sendEmail} className="space-y-4">
           <input
             type="text"
-            name="user_name"
+            name="name"
             placeholder="Your Name"
             className="w-full max-w-lg p-3 rounded bg-gray-700 text-white outline-none"
             required
           />
           <input
             type="email"
-            name="user_email"
+            name="email"
             placeholder="Your Email"
             className="w-full max-w-lg p-3 rounded bg-gray-700 text-white outline-none"
             required
